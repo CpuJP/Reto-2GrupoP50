@@ -23,7 +23,7 @@ public class UsuarioPremium extends Usuario {
 
     
 
-    String mostrar = "Usuario Premiun:" + "\n" + "Nombre -> " + getNombre() + "\n" + "Email -> " + getEmail() + "\n" + "Edad -> " + getEdad() + "\n" + "Nick -> " + getNick() + "\n";
+    String mostrar = "Usuario Premium:" + "\n" + "Nombre -> " + getNombre() + "\n" + "Email -> " + getEmail() + "\n" + "Edad -> " + getEdad() + "\n" + "Nick -> " + getNick() + "\n";
 
     @Override
     public void mostrar() {
